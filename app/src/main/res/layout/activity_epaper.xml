@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bag5"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".MainActivity">
+
+
+    <LinearLayout
+
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        tools:ignore="UselessParent">
+
+
+        <ScrollView
+            android:id="@+id/scrollView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="1dp"
+            tools:ignore="UselessParent">
+
+
+            <LinearLayout
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:context="com.demotxt.droidsrce.homedashboard.Home"
+                android:orientation="vertical"
+                android:padding="6dp"
+                android:background="#f9f46d"
+                android:gravity="center"
+                android:id="@+id/ll">
+
+
+                <LinearLayout
+                    android:background="#101010"
+                    android:clipToPadding="false"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <android.support.v7.widget.CardView
+                        android:foreground="?android:attr/selectableItemBackground"
+                        android:clickable="true"
+
+                        android:id="@+id/sakal"
+                        android:layout_width="152dp"
+                        android:layout_height="120dp"
+                        android:layout_margin="5dp"
+                        tools:ignore="KeyboardInaccessibleWidget">
+
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center">
+
+                            <ImageView
+                                android:layout_width="130dp"
+                                android:layout_height="65dp"
+                                android:src="@drawable/sakal"
+                                android:padding="2dp"
+                                tools:ignore="ContentDescription,VectorDrawableCompat" />
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textStyle="bold"
+                                android:layout_marginTop="8dp"
+                                android:text="सकाळ"
+                                tools:ignore="HardcodedText" />
+                            <View
+                                android:layout_width="match_parent"
+                                android:layout_height="1dp"
+                                android:background="@color/lightgray"
+                                android:layout_margin="5dp"/>
+
+
+                        </LinearLayout>
+                    </android.support.v7.widget.CardView>
+
+
+                    <android.support.v7.widget.CardView
+                        android:foreground="?android:attr/selectableItemBackground"
+                        android:clickable="true"
+                        android:id="@+id/lokmat"
+                        android:layout_width="152dp"
+                        android:layout_height="120dp"
+                        android:layout_margin="5dp"
+                        tools:ignore="KeyboardInaccessibleWidget">
+
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center">
+
+                            <ImageView
+                                android:layout_width="130dp"
+                                android:layout_height="65dp"
+                                android:src="@drawable/lokmat"
+                                android:padding="2dp"
+                                tools:ignore="ContentDescription,VectorDrawableCompat" />
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textStyle="bold"
+                                android:layout_marginTop="8dp"
+                                android:text="लोकमत"
+                                tools:ignore="HardcodedText" />
+                            <View
+                                android:layout_width="match_parent"
+                                android:layout_height="1dp"
+                                android:background="@color/lightgray"
+                                android:layout_margin="5dp"/>
+
+
+                        </LinearLayout>
+                    </android.support.v7.widget.CardView>
+
+
+
+
+                </LinearLayout>
+
+
+
+
+                <LinearLayout
+                    android:background="#080808"
+                    android:clipToPadding="false"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <android.support.v7.widget.CardView
+                        android:foreground="?android:attr/selectableItemBackground"
+                        android:clickable="true"
+
+                        android:id="@+id/mata"
+                        android:layout_width="152dp"
+                        android:layout_height="120dp"
+                        android:layout_margin="5dp"
+                        tools:ignore="KeyboardInaccessibleWidget">
+
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center">
+
+                            <ImageView
+                                android:layout_width="130dp"
+                                android:layout_height="65dp"
+                                android:src="@drawable/mata"
+                                android:padding="2dp"
+                                tools:ignore="ContentDescription,VectorDrawableCompat" />
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textStyle="bold"
+                                android:layout_marginTop="8dp"
+                                android:text="महाराष्ट्र टाइम्स"
+                                tools:ignore="HardcodedText" />
+                            <View
+                                android:layout_width="match_parent"
+                                android:layout_height="1dp"
+                                android:background="@color/lightgray"
+                                android:layout_margin="5dp"/>
+
+
+                        </LinearLayout>
+                    </android.support.v7.widget.CardView>
+
+
+                    <android.support.v7.widget.CardView
+                        android:foreground="?android:attr/selectableItemBackground"
+                        android:clickable="true"
+
+                        android:id="@+id/loksatta"
+                        android:layout_width="152dp"
+                        android:layout_height="120dp"
+                        android:layout_margin="5dp"
+                        tools:ignore="KeyboardInaccessibleWidget">
+
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center">
+
+                            <ImageView
+                                android:layout_width="130dp"
+                                android:layout_height="65dp"
+                                android:src="@drawable/loksatta"
+                                android:padding="2dp"
+                                tools:ignore="ContentDescription,VectorDrawableCompat" />
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textStyle="bold"
+                                android:layout_marginTop="8dp"
+                                android:text="लोकसत्ता"
+                                tools:ignore="HardcodedText" />
+                            <View
+                                android:layout_width="match_parent"
+                                android:layout_height="1dp"
+                                android:background="@color/lightgray"
+                                android:layout_margin="5dp"/>
+
+
+                        </LinearLayout>
+                    </android.support.v7.widget.CardView>
+
+
+
+
+                </LinearLayout>
+
+
+
+                <LinearLayout
+                    android:background="#1e1e1e"
+                    android:clipToPadding="false"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <android.support.v7.widget.CardView
+                        android:foreground="?android:attr/selectableItemBackground"
+                        android:clickable="true"
+
+                        android:id="@+id/pudhari"
+                        android:layout_width="152dp"
+                        android:layout_height="120dp"
+                        android:layout_margin="5dp"
+                        tools:ignore="KeyboardInaccessibleWidget">
+
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center">
+
+                            <ImageView
+                                android:layout_width="130dp"
+                                android:layout_height="65dp"
+                                android:src="@drawable/pudhari"
+                                android:padding="2dp"
+                                tools:ignore="ContentDescription,VectorDrawableCompat" />
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textStyle="bold"
+                                android:layout_marginTop="8dp"
+                                android:text="पुढारी"
+                                tools:ignore="HardcodedText" />
+                            <View
+                                android:layout_width="match_parent"
+                                android:layout_height="1dp"
+                                android:background="@color/lightgray"
+                                android:layout_margin="5dp"/>
+
+
+                        </LinearLayout>
+                    </android.support.v7.widget.CardView>
+
+
+                    <android.support.v7.widget.CardView
+                        android:foreground="?android:attr/selectableItemBackground"
+                        android:clickable="true"
+
+                        android:id="@+id/punyanagari"
+                        android:layout_width="152dp"
+                        android:layout_height="120dp"
+                        android:layout_margin="5dp"
+                        tools:ignore="KeyboardInaccessibleWidget">
+
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center">
+
+                            <ImageView
+                                android:layout_width="130dp"
+                                android:layout_height="65dp"
+                                android:src="@drawable/punyanagari"
+                                android:padding="2dp"
+                                tools:ignore="ContentDescription,VectorDrawableCompat" />
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textStyle="bold"
+                                android:layout_marginTop="8dp"
+                                android:text="पुण्य नगरी "
+                                tools:ignore="HardcodedText" />
+                            <View
+                                android:layout_width="match_parent"
+                                android:layout_height="1dp"
+                                android:background="@color/lightgray"
+                                android:layout_margin="5dp"/>
+
+
+                        </LinearLayout>
+                    </android.support.v7.widget.CardView>
+
+
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:background="#030303"
+                    android:clipToPadding="false"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <android.support.v7.widget.CardView
+                        android:foreground="?android:attr/selectableItemBackground"
+                        android:clickable="true"
+
+                        android:id="@+id/samna"
+                        android:layout_width="152dp"
+                        android:layout_height="120dp"
+                        android:layout_margin="5dp"
+                        tools:ignore="KeyboardInaccessibleWidget">
+
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center">
+
+                            <ImageView
+                                android:layout_width="130dp"
+                                android:layout_height="65dp"
+                                android:src="@drawable/saamana"
+                                android:padding="2dp"
+                                tools:ignore="ContentDescription,VectorDrawableCompat" />
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textStyle="bold"
+                                android:layout_marginTop="8dp"
+                                android:text="सामना "
+                                tools:ignore="HardcodedText" />
+                            <View
+                                android:layout_width="match_parent"
+                                android:layout_height="1dp"
+                                android:background="@color/lightgray"
+                                android:layout_margin="5dp"/>
+
+
+                        </LinearLayout>
+                    </android.support.v7.widget.CardView>
+
+
+                    <android.support.v7.widget.CardView
+                        android:foreground="?android:attr/selectableItemBackground"
+                        android:clickable="true"
+
+                        android:id="@+id/prahar"
+                        android:layout_width="152dp"
+                        android:layout_height="120dp"
+                        android:layout_margin="5dp"
+                        tools:ignore="KeyboardInaccessibleWidget">
+
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center">
+
+                            <ImageView
+                                android:layout_width="130dp"
+                                android:layout_height="65dp"
+                                android:src="@drawable/prahaar"
+                                android:padding="2dp"
+                                tools:ignore="ContentDescription,VectorDrawableCompat" />
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textStyle="bold"
+                                android:layout_marginTop="8dp"
+                                android:text="प्रहार "
+                                tools:ignore="HardcodedText" />
+                            <View
+                                android:layout_width="match_parent"
+                                android:layout_height="1dp"
+                                android:background="@color/lightgray"
+                                android:layout_margin="5dp"/>
+
+
+                        </LinearLayout>
+                    </android.support.v7.widget.CardView>
+
+
+
+
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:background="#0a0a0a"
+                    android:clipToPadding="false"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <android.support.v7.widget.CardView
+                        android:foreground="?android:attr/selectableItemBackground"
+                        android:clickable="true"
+
+                        android:id="@+id/divyamarathi"
+                        android:layout_width="152dp"
+                        android:layout_height="120dp"
+                        android:layout_margin="5dp"
+                        tools:ignore="KeyboardInaccessibleWidget">
+
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center">
+
+                            <ImageView
+                                android:layout_width="130dp"
+                                android:layout_height="65dp"
+                                android:src="@drawable/divyamarathi"
+                                android:padding="2dp"
+                                tools:ignore="ContentDescription,VectorDrawableCompat" />
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textStyle="bold"
+                                android:layout_marginTop="8dp"
+                                android:text="दिव्य मराठी "
+                                tools:ignore="HardcodedText" />
+                            <View
+                                android:layout_width="match_parent"
+                                android:layout_height="1dp"
+                                android:background="@color/lightgray"
+                                android:layout_margin="5dp"/>
+
+
+                        </LinearLayout>
+                    </android.support.v7.widget.CardView>
+
+
+                    <android.support.v7.widget.CardView
+                        android:foreground="?android:attr/selectableItemBackground"
+                        android:clickable="true"
+
+                        android:id="@+id/tarunbharat"
+                        android:layout_width="152dp"
+                        android:layout_height="120dp"
+                        android:layout_margin="5dp"
+                        tools:ignore="KeyboardInaccessibleWidget">
+
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical"
+                            android:gravity="center">
+
+                            <ImageView
+                                android:layout_width="130dp"
+                                android:layout_height="65dp"
+                                android:src="@drawable/tarunbharat"
+                                android:padding="2dp"
+                                tools:ignore="ContentDescription,VectorDrawableCompat" />
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textStyle="bold"
+                                android:layout_marginTop="8dp"
+                                android:text="तरुण भारत "
+                                tools:ignore="HardcodedText" />
+                            <View
+                                android:layout_width="match_parent"
+                                android:layout_height="1dp"
+                                android:background="@color/lightgray"
+                                android:layout_margin="5dp"/>
+
+
+                        </LinearLayout>
+                    </android.support.v7.widget.CardView>
+
+
+
+
+                </LinearLayout>
+
+
+
+
+
+            </LinearLayout>
+
+
+        </ScrollView>
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,1100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@drawable/bag1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ScrollView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:foregroundGravity="center_horizontal"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/setting_LineColor">
+
+            </View>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                android:layout_margin="5dp"
+                android:background="#d7df92"
+                android:clickable="true"
+
+                android:padding="10dp">
+
+                <ImageView
+
+                    android:layout_width="120dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="left|center"
+                    android:src="@drawable/ranjit"
+                    android:tint="#00000000" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#d7df92"
+                    android:gravity="left|center">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:text="@string/name1ranjit"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="50dp"
+                        android:text="@string/aa"
+                        android:textAllCaps="true"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+                </RelativeLayout>
+            </LinearLayout>
+
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/setting_LineColor" />
+
+
+            <LinearLayout
+                android:id="@+id/lbl00"
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                android:layout_margin="5dp"
+                android:background="#d7df92"
+                android:clickable="true"
+                android:onClick="foodmenu"
+                android:padding="10dp"
+                android:focusable="true">
+
+                <ImageView
+                    android:id="@+id/img10"
+                    android:layout_width="120dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="left|center"
+                    android:src="@drawable/ganeshkelkar"
+                    android:tint="#00000000" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#d7df92"
+                    android:gravity="left|center">
+
+                    <TextView
+                        android:id="@+id/txt20"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="20dp"
+                        android:text="@string/name2gnaesh"
+                        android:textAllCaps="true"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="20dp"
+                        android:layout_marginTop="50dp"
+                        android:text="@string/aa1"
+                        android:textAllCaps="true"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+                </RelativeLayout>
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/setting_LineColor">
+
+            </View>
+
+
+            <LinearLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                android:layout_margin="5dp"
+                android:background="#d7df92"
+                android:clickable="true"
+                android:onClick="foodmenu"
+                android:padding="10dp">
+
+                <ImageView
+
+                    android:layout_width="120dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="left|center"
+                    android:src="@drawable/viaks"
+                    android:tint="#00000000" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#d7df92"
+                    android:gravity="left|center">
+
+                    <TextView
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:text="@string/name3vikas"
+                        android:textAllCaps="true"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="50dp"
+                        android:text="@string/aa2"
+                        android:textAllCaps="true"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+                </RelativeLayout>
+            </LinearLayout>
+
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/setting_LineColor">
+
+            </View>
+
+
+            <LinearLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                android:layout_margin="5dp"
+                android:background="#d7df92"
+                android:clickable="true"
+                android:onClick="foodmenu"
+                android:padding="10dp">
+
+                <ImageView
+
+                    android:layout_width="120dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="left|center"
+                    android:src="@drawable/rakesh"
+                    android:tint="#00000000" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#d7df92"
+                    android:gravity="left|center">
+
+                    <TextView
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:text="@string/name4rakesh"
+                        android:textAllCaps="true"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="50dp"
+                        android:text="@string/aa4"
+                        android:textAllCaps="true"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+                </RelativeLayout>
+            </LinearLayout>
+
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/setting_LineColor">
+
+            </View>
+
+
+            <LinearLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                android:layout_margin="5dp"
+                android:background="#d7df92"
+                android:clickable="true"
+                android:onClick="foodmenu"
+                android:padding="10dp">
+
+                <ImageView
+
+                    android:layout_width="120dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="left|center"
+                    android:src="@drawable/akash"
+                    android:tint="#00000000" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#d7df92"
+                    android:gravity="left|center">
+
+                    <TextView
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:text="@string/name5akash"
+                        android:textAllCaps="true"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="50dp"
+                        android:text="@string/aa5"
+                        android:textAllCaps="true"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+                </RelativeLayout>
+            </LinearLayout>
+
+
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/setting_LineColor">
+
+            </View>
+
+
+            <LinearLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                android:layout_margin="5dp"
+                android:background="#d7df92"
+                android:clickable="true"
+                android:onClick="foodmenu"
+                android:padding="10dp">
+
+                <ImageView
+
+                    android:layout_width="120dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="left|center"
+                    android:src="@drawable/prajakata"
+                    android:tint="#00000000" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#d7df92"
+                    android:gravity="left|center">
+
+                    <TextView
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:text="@string/name6prajakta"
+                        android:textAllCaps="true"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="50dp"
+                        android:text="@string/aa6"
+                        android:textAllCaps="true"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+                </RelativeLayout>
+            </LinearLayout>
+
+
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/setting_LineColor">
+
+            </View>
+
+
+            <LinearLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                android:layout_margin="5dp"
+                android:background="#d7df92"
+                android:clickable="true"
+                android:onClick="foodmenu"
+                android:padding="10dp">
+
+                <ImageView
+
+                    android:layout_width="120dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="left|center"
+                    android:src="@drawable/girlsdummy"
+                    android:tint="#00000000" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#d7df92"
+                    android:gravity="left|center">
+
+                    <TextView
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:text="@string/name7sonali"
+                        android:textAllCaps="true"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="50dp"
+                        android:text="@string/aa7"
+                        android:textAllCaps="true"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+                </RelativeLayout>
+            </LinearLayout>
+
+
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/setting_LineColor">
+
+            </View>
+
+
+            <LinearLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                android:layout_margin="5dp"
+                android:background="#d7df92"
+                android:clickable="true"
+                android:onClick="foodmenu"
+                android:padding="10dp">
+
+                <ImageView
+
+                    android:layout_width="120dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="left|center"
+                    android:src="@drawable/nilesh"
+                    android:tint="#00000000" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#d7df92"
+                    android:gravity="left|center">
+
+                    <TextView
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:text="@string/name8nilesh"
+                        android:textAllCaps="true"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="50dp"
+                        android:text="@string/aa8"
+                        android:textAllCaps="true"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+                </RelativeLayout>
+            </LinearLayout>
+
+
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/setting_LineColor">
+
+            </View>
+
+
+            <LinearLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                android:layout_margin="5dp"
+                android:background="#d7df92"
+                android:clickable="true"
+                android:onClick="foodmenu"
+                android:padding="10dp">
+
+                <ImageView
+
+                    android:layout_width="120dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="left|center"
+                    android:src="@drawable/kishor"
+                    android:tint="#00000000" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#d7df92"
+                    android:gravity="left|center">
+
+                    <TextView
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:text="@string/name9shishor"
+                        android:textAllCaps="true"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="50dp"
+                        android:text="@string/aa9"
+                        android:textAllCaps="true"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+                </RelativeLayout>
+            </LinearLayout>
+
+
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/setting_LineColor">
+
+            </View>
+
+
+            <LinearLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                android:layout_margin="5dp"
+                android:background="#d7df92"
+                android:clickable="true"
+                android:onClick="foodmenu"
+                android:padding="10dp">
+
+                <ImageView
+
+                    android:layout_width="120dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="left|center"
+                    android:src="@drawable/ashwini"
+                    android:tint="#00000000" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#d7df92"
+                    android:gravity="left|center">
+
+                    <TextView
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:text="@string/name10ashwini"
+                        android:textAllCaps="true"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="50dp"
+                        android:text="@string/aa10"
+                        android:textAllCaps="true"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+                </RelativeLayout>
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/setting_LineColor">
+
+            </View>
+
+
+            <LinearLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                android:layout_margin="5dp"
+                android:background="#d7df92"
+                android:clickable="true"
+                android:onClick="foodmenu"
+                android:padding="10dp">
+
+                <ImageView
+
+                    android:layout_width="120dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="left|center"
+                    android:src="@drawable/sandip"
+                    android:tint="#00000000" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#d7df92"
+                    android:gravity="left|center">
+
+                    <TextView
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:text="@string/name11sandip"
+                        android:textAllCaps="true"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="50dp"
+                        android:text="@string/aa11"
+                        android:textAllCaps="true"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+                </RelativeLayout>
+            </LinearLayout>
+
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/setting_LineColor">
+
+            </View>
+
+
+            <LinearLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                android:layout_margin="5dp"
+                android:background="#d7df92"
+                android:clickable="true"
+                android:onClick="foodmenu"
+                android:padding="10dp">
+
+                <ImageView
+
+                    android:layout_width="120dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="left|center"
+                    android:src="@drawable/mandummy"
+                    android:tint="#00000000" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#d7df92"
+                    android:gravity="left|center">
+
+                    <TextView
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:text="@string/name12sandipsarade"
+                        android:textAllCaps="true"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="50dp"
+                        android:text="@string/aa12"
+                        android:textAllCaps="true"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+                </RelativeLayout>
+            </LinearLayout>
+
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/setting_LineColor">
+
+            </View>
+
+
+            <LinearLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                android:layout_margin="5dp"
+                android:background="#d7df92"
+                android:clickable="true"
+                android:onClick="foodmenu"
+                android:padding="10dp">
+
+                <ImageView
+
+                    android:layout_width="120dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="left|center"
+                    android:src="@drawable/swati"
+                    android:tint="#00000000" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#d7df92"
+                    android:gravity="left|center">
+
+                    <TextView
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:text="@string/name13swati"
+                        android:textAllCaps="true"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="50dp"
+                        android:text="@string/aa13"
+                        android:textAllCaps="true"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+                </RelativeLayout>
+            </LinearLayout>
+
+
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/setting_LineColor">
+
+            </View>
+
+
+            <LinearLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                android:layout_margin="5dp"
+                android:background="#d7df92"
+                android:clickable="true"
+                android:onClick="foodmenu"
+                android:padding="10dp">
+
+                <ImageView
+
+                    android:layout_width="120dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="left|center"
+                    android:src="@drawable/mahesh"
+                    android:tint="#00000000" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#d7df92"
+                    android:gravity="left|center">
+
+                    <TextView
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:text="@string/name14mahesh"
+                        android:textAllCaps="true"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="50dp"
+                        android:text="@string/aa14"
+                        android:textAllCaps="true"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+                </RelativeLayout>
+            </LinearLayout>
+
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/setting_LineColor">
+
+            </View>
+
+
+            <LinearLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                android:layout_margin="5dp"
+                android:background="#d7df92"
+                android:clickable="true"
+                android:onClick="foodmenu"
+                android:padding="10dp">
+
+                <ImageView
+
+                    android:layout_width="120dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="left|center"
+                    android:src="@drawable/girlsdummy"
+                    android:tint="#00000000" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#d7df92"
+                    android:gravity="left|center">
+
+                    <TextView
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:text="@string/name15shital"
+                        android:textAllCaps="true"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="50dp"
+                        android:text="@string/aa15"
+                        android:textAllCaps="true"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+                </RelativeLayout>
+            </LinearLayout>
+
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/setting_LineColor">
+
+            </View>
+
+
+            <LinearLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                android:layout_margin="5dp"
+                android:background="#d7df92"
+                android:clickable="true"
+                android:onClick="foodmenu"
+                android:padding="10dp">
+
+                <ImageView
+
+                    android:layout_width="120dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="left|center"
+                    android:src="@drawable/maheshkudchat"
+                    android:tint="#00000000" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#d7df92"
+                    android:gravity="left|center">
+
+                    <TextView
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:text="@string/name16mahesh"
+                        android:textAllCaps="true"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="50dp"
+                        android:text="@string/aa16"
+                        android:textAllCaps="true"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+                </RelativeLayout>
+            </LinearLayout>
+
+
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/setting_LineColor">
+
+            </View>
+
+
+            <LinearLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                android:layout_margin="5dp"
+                android:background="#d7df92"
+                android:clickable="true"
+                android:onClick="foodmenu"
+                android:padding="10dp">
+
+                <ImageView
+
+                    android:layout_width="120dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="left|center"
+                    android:src="@drawable/madhuri"
+                    android:tint="#00000000" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#d7df92"
+                    android:gravity="left|center">
+
+                    <TextView
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:text="@string/name17madhuri"
+                        android:textAllCaps="true"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="50dp"
+                        android:text="@string/aa17"
+                        android:textAllCaps="true"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+                </RelativeLayout>
+            </LinearLayout>
+
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/setting_LineColor">
+
+            </View>
+
+
+            <LinearLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                android:layout_margin="5dp"
+                android:background="#d7df92"
+                android:clickable="true"
+                android:onClick="foodmenu"
+                android:padding="10dp">
+
+                <ImageView
+
+                    android:layout_width="120dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="left|center"
+                    android:src="@drawable/mandummy"
+                    android:tint="#00000000" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#d7df92"
+                    android:gravity="left|center">
+
+                    <TextView
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:text="@string/name18atul"
+                        android:textAllCaps="true"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginTop="50dp"
+                        android:text="@string/aa18"
+                        android:textAllCaps="true"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+                </RelativeLayout>
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/setting_LineColor">
+
+            </View>
+
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+</LinearLayout>
+
+

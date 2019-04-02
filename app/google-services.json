@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "867707621351",
+    "firebase_url": "https://ahilya-library.firebaseio.com",
+    "project_id": "ahilya-library",
+    "storage_bucket": "ahilya-library.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867707621351:android:1df6a4bb677a2c2d",
+        "android_client_info": {
+          "package_name": "grdp.ganeshsatkar.ahilyalibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867707621351-drorvbe787lavdt08mvu907te97jbojl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "grdp.ganeshsatkar.ahilyalibrary",
+            "certificate_hash": "cf6d157cf0a2ef8bbf495b1c82d8b776c5db1431"
+          }
+        },
+        {
+          "client_id": "867707621351-8kcsnkamk2op0gbvra643eja6tk5o43o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAuU1NiTxdZz9ah2GGQe9d8JYtMYC-trU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867707621351-8kcsnkamk2op0gbvra643eja6tk5o43o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

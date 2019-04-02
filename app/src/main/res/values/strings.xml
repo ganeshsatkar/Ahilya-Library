@@ -1,0 +1,274 @@
+<resources>
+    <string name="app_name">अहिल्या लायब्ररी</string>
+
+    <string name="welcome">Welcome To Ahilya Library</string>
+
+    <string-array name="language_option">
+    <item>English</item>
+    <item>मराठी</item>
+
+
+    </string-array>
+
+        <string name="addUnit">ca-app-pub-7233052509464359/4126021460</string>
+
+        <string name="text_translation">मराठी </string>
+        <string name="open">खुला </string>
+        <string name="welmsg">सुस्वागतम्</string>
+        <string name="next_page">Submit</string>
+
+
+
+
+
+
+
+
+        <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+        <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+        <string name="action_settings">सेटिंग</string>
+
+        <string name="select_language">Select Language</string>
+
+        <string name="selectmarathi">मराठी</string>
+        <string name="selectenglish">English</string>
+
+
+        <string name="abouttext"> अहिल्या शिक्षण मंडळ पुणे यांचे अहिल्या लायब्ररी हि पुण्यातील एक अग्रगण्य व सुसज्ज अशी लायब्ररी आहे.
+        गेली अनेक वर्षे अनेक या लायब्ररीमधून अभ्यास करून अनेक विद्यार्थी तलाठी, पोलीस, नायब तहसीलदार, तहसीलदार, डेप्युटी कलेक्टर, कलेक्टर ,
+        पी.एस.आय , डी.वाय.एस.पी, सेल्स टॅक्स ऑफिसर, एम.पी.एस.सी./ यु.पी.एस.सी. च्या माध्यमातून तसेच बँकिंग ऑफिसर, चार्टर्ड अकाउंटंट ,
+        कंपनी ऑफिसर, कंपनी सेक्रेटरी, कॉस्ट अकाउंटंट,डॉक्टर्स, इंजिनिअर, केंद्रांमध्ये कस्टम अधिकारी तथा इतर प्रशासकीय अधिकारी बनले आहे आणि आज आपले कार्य करत आहे.
+        हेच काम आम्ही पुढील काळातदेखील नव्या जोशाने व जोमाने चालू ठेवत आहोत आणि
+        येण्याचे पिठीला नवी वाट दाखवण्याचे काम करण्याचा एक छोटासा प्रयत्न करत आहोत.</string>
+
+
+
+        <string name="admissionopen">प्रवेश सुरु ....त्वरा करा </string>
+
+
+
+
+
+
+        <string name="pmsg">
+
+
+    \tप्रत्येक व्यक्ती जन्मापासून मृत्यूपर्यंत भाषा साहित्य संस्कृती आणि दैनंदिन अनुभवातून ज्ञान ग्रहण करत असते.
+        या ज्ञान ग्रहण करण्याच्या पद्धतीला ढोबळमानाने शिक्षण असे म्हणतात.
+    \nशिक्षण हे प्रत्येक व्यक्तीस गुणवंत शिलवंत आणि समाजशील बनवण्याचा प्रयत्न करीत असते.
+        महात्मा ज्योतिबा फुले पासून ते आधुनिक व्यवसायिक अभ्यासक्रमापर्यंतचा शिक्षण प्रवास पाहता अनेक आमूलाग्र बदल घडून आलेले दिसतात.
+
+        \nजागतिकीकरणानंतरच्या गेला पंधरा वर्षात शिक्षण क्षेत्रात झालेल्या बदलांमुळे कष्टकरी सामान्य माणसांची होणारी शैक्षणिक होरपळ पाहता
+        स्व. बापूंच्या दूरदर्शीपणाची आज आम्हाला तीव्रतेने आठवण होते.
+
+   \n\n स्व. श्री.शिवाजीराव शेंडगे बापू माजी संस्थेचे अध्यक्ष यांनी समाजातील गोरगरीब मुलांचे शिक्षण पुण्यासारख्या विद्येचे माहेरघर
+        असलेल्या शहरात शिक्षणाची सोय व्हावी म्हणून या वास्तूची उभारणी करण्याची संपूर्ण जबाबदारी सन १९९४ साली माझ्यावर सोपवण्यात आली होती.
+
+        \nती मी स्वत: संस्थेचे संचालक, सभासद व समाज बांधवांच्या सहकार्याने वास्तूची उभारणी केली. या वास्तू उभारणी केल्यापासून आजतागायत समाजातील व समाजइतर विद्यार्थी
+    \nया वास्तूमध्ये तलाठी, पोलीस, नायब तहसीलदार, तहसीलदार, डेप्युटी कलेक्टर, कलेक्टर , पी.एस.आय , डी.वाय.एस.पी, सेल्स टॅक्स ऑफिसर,
+        एम.पी.एस.सी./ यु.पी.एस.सी. च्या माध्यमातून तसेच बँकिंग ऑफिसर, चार्टर्ड अकाउंटंट , कंपनी ऑफिसर, कंपनी सेक्रेटरी,
+        कॉस्ट अकाउंटंट,डॉक्टर्स, इंजिनिअर, केंद्रांमध्ये कस्टम अधिकारी इ. विद्यार्थी व विद्यार्थिनी प्रशासकीय सेवेत कार्यरत आहेत, याचा मला सार्थ अभिमान आहे.
+
+      आज पर्यंत या संस्थेमार्फत अंदाजे दोन हजार अधिकारी घडले आहेत.
+
+\n\n अहिल्या शिक्षण मंडळ हे एक कुटुंबच आहे व व तेथील अभ्यासिका व वसतिगृहामध्ये आलेल्या मुलांचे पालकत्व नकळत संस्थेकडे येते व
+        आम्ही आमच्या स्वतःच्या परीने ते उत्कृष्ट निभावत असतो.
+\nविद्यार्थ्यांना जास्तीत जास्त सुविधा मिळवून देण्याचा संचालक, सभासद यांचा मानस आहे.
+        आज पर्यंत संस्थेचे पदाधिकारी, सभासद, समजबांधव व अहिल्या स्टडी सर्कलचे सर्व विद्यार्थी / विद्यार्थिनी यांनी वेळोवेळी अनमोल
+        सहकार्य केल्यामुळे आपल्या संस्थेचे भारतात नावलौकिक झाले आहे हे केवळ आपणा सर्वांच्या सहकार्याने व आशीर्वादाने हे मला विसरून चालणार नाही.
+
+\nसंस्थेचे हित समजून सर्वजण एकमेका सहाय्य करू अवघे धरू सुपंथ असे धोरण आहे.
+
+\n\n\n - आपला सुरेश ( आबा ) शेंडगे
+\nअध्यक्ष,अहिल्या शिक्षण मंडळ, पुणे
+    </string>
+
+
+
+
+        <string name="tagline">ज्ञानाच्या प्रसारासाठी    </string>
+
+
+        <string name="welcommsg">अहिल्या शिक्षण मंडळ पुणे यांच्या अहिल्या लायब्ररीमध्ये तुमचे स्वागत आहे.</string>
+
+
+
+
+
+        <string name="u1">ग्रंथालय ज्ञानाचा प्रसार केंद्रे असतात संशोधनासाठी सामाजिक शास्त्रांच्या आवश्यक सर्व संदर्भ ग्रंथाने उभारण्यात येईल.
+        शिवाय ग्रामीण मुलांमध्ये करतय ग्रंथालयाद्वारे संदर्भ वाचनखेड निर्माण करण्यासाठी प्रयत्न केले जातील.</string>
+
+        <string name="u2"> शिक्षणामुळे जनजागृती घडून येते त्या दृष्टीने प्रौढसाक्षरतेस प्रोत्साहन देण्यसाठी उपक्रम राबवले जातील.
+
+अभ्यासिका व वसतिगृहांच्या विद्यार्थ्यांना या चळवळीत समाविष्ट करून घेतले जाईल.
+
+ </string>
+        <string name="u3"> ग्रामीण भागातील पिण्याचे पाणी व कृषी वापराचे पाणी समस्या सोडवण्यासाठी जनसंधारनाचे प्राथमिक ज्ञान
+        शेतकऱ्यांपर्यंत पोहोचवण्यासाठी विविध उपक्रम राबवले जातील, सोबत सामाजिक वनीकरणाचा एक भाग म्हणून वृक्षारोपणाचे कार्यक्रम हाती घेतले जातील. </string>
+        <string name="u4"> ग्रामीण भागातील महिलांना आर्थिकदृष्ट्या सक्षम पायावर उभे करण्याच्या उद्दिष्टाने विविध स्वयंरोजगाराचे प्रशिक्षण आणि बचत गटाची उभारणी केली जाईल.
+        त्यादृष्टीने विविध गावातील महिलांची व्यवसाय प्रशिक्षण कार्यक्रम राबावण्यात येतील.
+         अहिल्या स्टडी सर्कलच्या माध्यमातून प्रशासकीय अधिकारी घडवणे. संस्थेच्या माध्यमातून शैक्षणिक, सामाजिक,
+        औद्योगिकक व शेती संबंधित उपक्रम राबवणे तसेच विद्यार्थ्यांचा व्यक्तिमत्त्व विकास करणे.  </string>
+
+        <string name="u5"> आरोग्य, पाणी पुरवठा, प्राथमिक शिक्षण, इत्यादी विविध ग्रामीण समस्या लक्षात घेऊन विद्यार्थ्यांमध्ये त्याविषयीची
+        जाणीव निर्माण करण्यासाठी प्रशिक्षण उपक्रम राबवणे. </string>
+        <string name="u6"> विद्यार्थ्यांच्या अभ्यासविषयक मानसिक आरोग्याविषयक व भविष्यातील करिअरची दिशा इत्यादीबाबत मार्गदर्शन
+        करण्यासाठी विख्यात मानसोपचार तज्ञ आणि करिअर मार्गदर्शन तज्ज्ञांच्या मदतीने समुदेशन केंद्र चालविणे. </string>
+        <string name="u7"> विद्यार्थी ज्येष्ठ नागरिक आणि महिला या सगळ्यांसाठी सर्वसमावेशक स्वरूपाचे आणि
+        सर्व पद्धतीची आरोग्य संवर्धक साधनेयुक्त हेल्थ सेंटर स्थापन करणे. </string>
+        <string name="u8"> विविध समस्यांचा वेध घेऊन समाजातील युवा शक्तीचा उपयोग त्या सोडवण्यासाठी करण्याच्या दिशेने कायमस्वरूपी मार्गदर्शन अभ्यासक्रम राबवणे. </string>
+        <string name="u9"> पायाभूत संघाने प्रशिक्षणापासून ते अत्याधुनिक वेबसाईट्स डेव्हलपमेंट पर्यंत सर्व प्रकारचे मार्गदर्शन पर अभ्यासक्रम राबवणे. </string>
+        <string name="u10"> क्रीडा प्रशिक्षण शास्त्राच्या आधारे विद्यार्थ्यांना विविध खेळांचे प्रशिक्षण देण्याची योजना संस्थेद्वारे प्रस्तावित आहे.
+        विद्यार्थ्यांचे वय ,शारीरिक क्षमता,शरीर रचना या आधारे हे प्रशिक्षण दिले जाईल. विशेषतः खो-खो, कबड्डी, कुस्ती, योगासने ,जिमनॅस्टिक,
+        मल्लखांब,रोप – मल्लखांब या आठ खेळांचे प्रशिक्षण दिले जाईल.</string>
+
+
+
+
+
+        <string name="s1"> प्रशस्त वाचनालय हॉल </string>
+        <string name="s2"> वातानुकुलीत( A.C ) रूमस् </string>
+        <string name="s3"> विना- वातानुकुलीत ( Non AC ) रूमस् </string>
+        <string name="s4"> जेवणासाठी प्रशस्त हॉल </string>
+        <string name="s5"> प्रशस्त व सोयींयुक्त टाॅयलेट आणि बाथरूम </string>
+        <string name="s6"> २४/७ सेक्युरिटी </string>
+        <string name="s7"> CCTV युक्त लायब्ररी व परिसर </string>
+        <string name="s8"> RO युक्त पाणी २४/७ </string>
+        <string name="s9"> दररोज दोन वेळा स्वच्छता </string>
+        <string name="s10"> शांत वातावरण </string>
+        <string name="s12"> सर्व सोईसुविधांयुक्त परिसर </string>
+        <string name="s13"> लॉकरची सुविधा </string>
+
+
+
+
+        <string name="m1">आमच्याबद्दल</string>
+        <string name="m2">शुल्क </string>
+        <string name="m4">उपक्रम</string>
+        <string name="m3">मनोगत</string>
+        <string name="m5">सुविधा</string>
+        <string name="m6">गॅलरी</string>
+        <string name="m7">संपर्क</string>
+    <string name="m8">वर्तमानपत्रे </string>
+    <string name="m9">स्पर्धापरीक्षा</string>
+    <string name="m10"> गुणवंत </string>
+
+
+
+        <string name="navigation_home">आमच्याबद्दल</string>
+        <string name="navigation_website">वेबसाईट</string>
+        <string name="navigation_maplocation">मॅप लोकेशन</string>
+        <string name="navigation_shaer">शेअर </string>
+        <string name="navigation_designby"> डिझाईन  </string>
+        <string name="upperright_mail">ई-मेल</string>
+        <string name="upperright_call">कॉल</string>
+        <string name="bootom_enquiry">चौकशी</string>
+        <string name="Bottom_whatsapp">शुल्क </string>
+        <string name="bottom_call">फोन</string>
+
+
+        <string name="contact_details">संपर्क</string>
+        <string name="contact_name">अहिल्या शिक्षण मंडळ पुणे वाचनालय </string>
+        <string name="contact_address">रामबाग कॉलनी, सदाशिव पेठ , पुणे. महाराष्ट्र ४११०३०</string>
+        <string name="contact_mail">asmplibrary@gmail.com</string>
+        <string name="contact_website">www.ahilyalibrary.wordpress.com</string>
+        <string name="contact_stdphone">०२० - ३३४० ९८४६</string>
+        <string name="contact_mobilephone">+९१ ८४८३०३५८२०</string>
+
+
+
+
+        <string name="request_enter">तुमची माहिती भरा</string>
+        <string name="request_name">नाव </string>
+        <string name="request_phone_no">फोन नं</string>
+        <string name="request_email">ई-मेल</string>
+        <string name="request_message">संदेश </string>
+        <string name="request_send_via_mail">मेलद्वारे पाठवा</string>
+        <string name="request_send_via_whatsapp">व्हाटसअपद्वारे पाठवा</string>
+
+
+
+
+
+        <string name="Header_name"> अहिल्या शिक्षण मंडळ पुणे </string>
+        <string name="Header_tagline"> अहिल्या वाचनालय </string>
+
+
+
+        <string name="program_pu1">ग्रंथालायाद्वारे ज्ञानप्रसार</string>
+        <string name="program_pu2">प्रौढशिक्षण</string>
+        <string name="program_pu3">वृक्षारोपण व जलसंवर्धन</string>
+        <string name="program_pu4">महिला सबलीकरण उपक्रम</string>
+        <string name="program_pu5">ग्रामीण कार्यकर्त्यांचे प्रशिक्षण</string>
+        <string name="program_pu6">समुपदेशन केंद्र </string>
+        <string name="program_pu7">आरोग्य संवर्धनासाठी व्यायामशाळा</string>
+        <string name="program_pu8">युवाशक्ती मार्गदर्शन केंद्र</string>
+        <string name="program_pu9">अत्याधुनिक संगणक प्रशिक्षण</string>
+        <string name="program_pu10">क्रीडा प्रशिक्षण</string>
+
+		
+		
+		 <string name="name1ranjit">रणजीतसिंह  कोळेकर  </string>
+		
+		<string name="name2gnaesh">गणेश कोळेकर   </string>
+		<string name="name3vikas">विकास गंबरे   </string>
+		<string name="name4rakesh">राकेश गियडे </string>
+		<string name="name5akash">आकाश मेश्राम  </string>
+		<string name="name6prajakta">प्राजक्ता राणे  </string>
+		<string name="name7sonali">सोनाली मिरगे  </string>
+		<string name="name8nilesh">निलेश माने  </string>
+		<string name="name9shishor">किशोर बालवे पाटिल  </string>
+		<string name="name10ashwini">आश्विनी मेश्राम  </string>
+		<string name="name11sandip">संदीप वाघ  </string>
+		<string name="name12sandipsarade">संदीप सराडे  </string>
+		<string name="name13swati">स्वाती थिटे  </string>
+		<string name="name14mahesh">महेश नलवडे  </string>
+		<string name="name15shital">शितल खिल्लारे  </string>
+		<string name="name16mahesh">महेश कटछवे  </string>
+		<string name="name17madhuri">माधुरी लांडे  </string>
+		
+		<string name="name18atul">अतुल खाडे   </string>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+        <string name="swipe_viewpager">Swipe left or right to test ViewPager.</string>
+        <string name="designby">Design By</string>
+    <string name="version">VERSION</string>
+    <string name="copyright_ahilya_shikshan_mandal_pune">Copyright @ Ahilya Shikshan Mandal Pune</string>
+    <string name="sharestring">To Download Ahilya Library Android App Click On Following link..
+        \n\n https://play.google.com/store/apps/details?id=grdpinfotech.ganeshsatkar.ahilyalibrary</string>
+    <string name="aa1">विक्री कर अधिकारी</string>
+    <string name="aa2">सहआयुक्त विक्रीकर</string>
+    <string name="aa4">नायब तहसीलदार</string>
+    <string name="aa5">टॅक्स असिस्टंट</string>
+    <string name="aa6">स्टेट टॅक्स इस्पेक्टर</string>
+    <string name="aa7">स्टेट टॅक्स इस्पेक्टर</string>
+    <string name="aa8">पी. एस. आय.</string>
+    <string name="aa9">विभागीय प्रमुख पाटबंधारे पुणे</string>
+    <string name="aa10">स्टेट टॅक्स इस्पेक्टर</string>
+    <string name="aa11">टेक्निकल</string>
+    <string name="aa12">ए. एस. ओ.</string>
+    <string name="aa13">पोलिस</string>
+    <string name="aa14">पोलिस उपनिरीक्षक</string>
+    <string name="aa15">पोलिस उपनिरीक्षक</string>
+    <string name="aa16">ए. आर. एस. बी</string>
+    <string name="aa17">राज्यकर निरीक्षक</string>
+    <string name="aa18">राज्यकर निरीक्षक</string>
+    <string name="aa">विक्री कर अधिकारी</string>
+
+</resources>
+
+
+

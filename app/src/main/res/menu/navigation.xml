@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menuitom"
+        android:icon="@drawable/feedbackicon"
+        android:title="@string/bootom_enquiry"
+       app:showAsAction="always|withText"/>
+
+    <item
+        android:id="@+id/whatsapp"
+        android:icon="@drawable/feesstructure"
+        android:title="@string/Bottom_whatsapp"
+        app:showAsAction="always|withText"/>
+
+    <!--<item
+        android:id="@+id/navigation_testimonial"
+        android:icon="@drawable/bthree"
+        android:title="Testimonial"
+        app:showAsAction="always|withText"/>-->
+
+    <item
+        android:id="@+id/call"
+        android:icon="@drawable/callmenu"
+        android:title="@string/bottom_call"
+        app:showAsAction="always|withText" />
+
+</menu>

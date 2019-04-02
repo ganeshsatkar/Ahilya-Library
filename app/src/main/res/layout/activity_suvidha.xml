@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/bag1">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:scrollbars="vertical"
+        tools:ignore="UselessParent">
+
+        <LinearLayout
+            android:paddingBottom="1dp"
+            android:background="#e7e7e1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:orientation="vertical">
+
+
+
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:height="20dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:background="#bbe18f"
+                android:text="प्रशस्त वाचनालय हॉल"
+                tools:ignore="HardcodedText" />
+
+
+
+            <ImageView
+                android:foregroundGravity="center"
+                android:layout_gravity="center"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_width="350dp"
+                android:layout_height="200dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:src="@drawable/suvidha_hall1"
+                tools:ignore="ContentDescription,ObsoleteLayoutParam" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="#000"
+                android:layout_marginBottom="5dp"/>
+
+
+
+
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:height="20dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:background="#bbe18f"
+                android:text="वातानुकुलीत( A.C ) रूमस्"
+                tools:ignore="HardcodedText" />
+
+
+
+            <ImageView
+                android:foregroundGravity="center"
+                android:layout_gravity="center"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_width="350dp"
+                android:layout_height="200dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:src="@drawable/suvidha_acroom"
+                tools:ignore="ContentDescription,ObsoleteLayoutParam" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="#000"
+                android:layout_marginBottom="5dp"/>
+
+
+
+
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:height="20dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:background="#bbe18f"
+                android:text="विना- वातानुकुलीत ( Non AC ) रूमस् "
+                tools:ignore="HardcodedText" />
+
+
+
+            <ImageView
+                android:foregroundGravity="center"
+                android:layout_gravity="center"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_width="350dp"
+                android:layout_height="200dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:src="@drawable/suvidha3"
+                tools:ignore="ContentDescription,ObsoleteLayoutParam" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="#000"
+                android:layout_marginBottom="5dp"/>
+
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:height="20dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:background="#bbe18f"
+                android:text="जेवणासाठी प्रशस्त हॉल "
+                tools:ignore="HardcodedText" />
+
+
+
+            <ImageView
+                android:foregroundGravity="center"
+                android:layout_gravity="center"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_width="350dp"
+                android:layout_height="200dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:src="@drawable/suvidha_lunchhall"
+                tools:ignore="ContentDescription,ObsoleteLayoutParam" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="#000"
+                android:layout_marginBottom="5dp"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:height="20dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:background="#bbe18f"
+                android:text="प्रशस्त व सोयींयुक्त टाॅयलेट आणि बाथरूम"
+                tools:ignore="HardcodedText" />
+
+
+
+            <ImageView
+                android:foregroundGravity="center"
+                android:layout_gravity="center"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_width="350dp"
+                android:layout_height="200dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:src="@drawable/suvidha5"
+                tools:ignore="ContentDescription,ObsoleteLayoutParam" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="#000"
+                android:layout_marginBottom="5dp"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:height="20dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:background="#bbe18f"
+                android:text="२४/७ सेक्युरिटी"
+                tools:ignore="HardcodedText" />
+
+
+
+            <ImageView
+                android:foregroundGravity="center"
+                android:layout_gravity="center"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_width="350dp"
+                android:layout_height="300dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:src="@drawable/suvidha_security"
+                tools:ignore="ContentDescription,ObsoleteLayoutParam" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="#000"
+                android:layout_marginBottom="5dp"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:height="20dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:background="#bbe18f"
+                android:text="CCTV युक्त लायब्ररी व परिसर"
+                tools:ignore="HardcodedText" />
+
+
+            <ImageView
+                android:foregroundGravity="center"
+                android:layout_gravity="center"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_width="350dp"
+                android:layout_height="200dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:src="@drawable/suvidha7"
+                tools:ignore="ContentDescription,ObsoleteLayoutParam" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="#000"
+                android:layout_marginBottom="5dp"/>
+
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:height="20dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:background="#bbe18f"
+                android:text="@string/s8"/>
+
+
+
+            <ImageView
+                android:foregroundGravity="center"
+                android:layout_gravity="center"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_width="350dp"
+                android:layout_height="400dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:src="@drawable/suvidha8"
+                android:contentDescription="TODO"
+                tools:ignore="ContentDescription,HardcodedText,ObsoleteLayoutParam" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="#000"
+                android:layout_marginBottom="5dp"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:height="20dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:background="#bbe18f"
+                android:text="@string/s9"/>
+
+
+
+            <ImageView
+                android:foregroundGravity="center"
+                android:layout_gravity="center"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_width="350dp"
+                android:layout_height="200dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:src="@drawable/suvidha9"
+                tools:ignore="ContentDescription,ObsoleteLayoutParam" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="#000"
+                android:layout_marginBottom="5dp"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:height="20dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:background="#bbe18f"
+                android:text="@string/s10"/>
+
+
+
+            <ImageView
+                android:foregroundGravity="center"
+                android:layout_gravity="center"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_width="350dp"
+                android:layout_height="200dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:src="@drawable/suvidha10"
+                tools:ignore="ContentDescription,ObsoleteLayoutParam" />
+
+           <!-- <Button
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="#000"
+                android:layout_marginBottom="5dp"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:height="20dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:background="#bbe18f"
+                android:text="@string/s12"/>
+
+
+
+            <ImageView
+                android:foregroundGravity="center"
+                android:layout_gravity="center"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_width="350dp"
+                android:layout_height="200dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:src="@drawable/suvidha12"/>-->
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="#000"
+                android:layout_marginBottom="5dp"/>
+
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:height="20dp"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:background="#bbe18f"
+                android:text="@string/s13"/>
+
+
+
+            <ImageView
+                android:foregroundGravity="center"
+                android:layout_gravity="center"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_width="350dp"
+                android:layout_height="200dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:src="@drawable/suvidha13"
+                tools:ignore="ContentDescription,ObsoleteLayoutParam" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="8dp"
+                android:background="#000"
+                android:layout_marginBottom="5dp"/>
+
+
+
+
+        </LinearLayout>
+
+    </ScrollView>
+</RelativeLayout>
+
+
+
+
+
+

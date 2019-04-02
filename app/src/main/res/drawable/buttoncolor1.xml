@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <!-- drawable/circle_card_icon.xml -->
+        <shape xmlns:android="http://schemas.android.com/apk/res/android"
+            android:shape="rectangle">
+
+            <gradient
+                android:startColor="#f2a734"
+                android:centerColor="#fafdfa"
+                android:endColor="#57ff73"
+                 />
+
+               <!-- android:startColor="#f79b5e "
+                android:centerColor="#f9dd88"
+                android:endColor="#f1d953"-->
+
+
+            <corners android:radius="3dp" />
+            <stroke android:width="1px" android:color="#64645f" />
+            <size
+                android:width="100dp"
+                android:height="20dp"
+                />
+        </shape>
+    </item>
+
+</layer-list>
