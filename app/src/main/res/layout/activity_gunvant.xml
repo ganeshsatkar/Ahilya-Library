@@ -33,7 +33,7 @@
                 android:layout_height="140dp"
                 android:layout_margin="5dp"
                 android:background="#d7df92"
-                android:clickable="true"
+              
 
                 android:padding="10dp">
 
@@ -67,7 +67,7 @@
                         android:layout_marginLeft="20dp"
                         android:layout_marginTop="50dp"
                         android:text="@string/aa"
-                        android:textAllCaps="true"
+                        android:textAllCaps="false"
                         android:textColor="#000000"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -88,10 +88,10 @@
                 android:layout_height="140dp"
                 android:layout_margin="5dp"
                 android:background="#d7df92"
-                android:clickable="true"
+                android:clickable="false"
                 android:onClick="foodmenu"
                 android:padding="10dp"
-                android:focusable="true">
+                android:focusable="false">
 
                 <ImageView
                     android:id="@+id/img10"
@@ -113,7 +113,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginStart="20dp"
                         android:text="@string/name2gnaesh"
-                        android:textAllCaps="true"
+                        android:textAllCaps="false"
                         android:textColor="#000000"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -125,7 +125,7 @@
                         android:layout_marginStart="20dp"
                         android:layout_marginTop="50dp"
                         android:text="@string/aa1"
-                        android:textAllCaps="true"
+                        android:textAllCaps="false"
                         android:textColor="#000000"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -147,7 +147,7 @@
                 android:layout_height="140dp"
                 android:layout_margin="5dp"
                 android:background="#d7df92"
-                android:clickable="true"
+                android:clickable="false"
                 android:onClick="foodmenu"
                 android:padding="10dp">
 
@@ -171,7 +171,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="20dp"
                         android:text="@string/name3vikas"
-                        android:textAllCaps="true"
+                        android:textAllCaps="false"
                         android:textColor="#000000"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -183,7 +183,7 @@
                         android:layout_marginLeft="20dp"
                         android:layout_marginTop="50dp"
                         android:text="@string/aa2"
-                        android:textAllCaps="true"
+                        android:textAllCaps="false"
                         android:textColor="#000000"
                         android:textSize="21sp"
                         android:textStyle="bold" />
@@ -206,7 +206,7 @@
                 android:layout_height="140dp"
                 android:layout_margin="5dp"
                 android:background="#d7df92"
-                android:clickable="true"
+                android:clickable="false"
                 android:onClick="foodmenu"
                 android:padding="10dp">
 
@@ -230,7 +230,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="20dp"
                         android:text="@string/name4rakesh"
-                        android:textAllCaps="true"
+                        android:textAllCaps="false"
                         android:textColor="#000000"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -242,7 +242,7 @@
                         android:layout_marginLeft="20dp"
                         android:layout_marginTop="50dp"
                         android:text="@string/aa4"
-                        android:textAllCaps="true"
+                        android:textAllCaps="false"
                         android:textColor="#000000"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -265,7 +265,7 @@
                 android:layout_height="140dp"
                 android:layout_margin="5dp"
                 android:background="#d7df92"
-                android:clickable="true"
+                android:clickable="false"
                 android:onClick="foodmenu"
                 android:padding="10dp">
 
@@ -289,7 +289,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="20dp"
                         android:text="@string/name5akash"
-                        android:textAllCaps="true"
+                        android:textAllCaps="false"
                         android:textColor="#000000"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -301,7 +301,7 @@
                         android:layout_marginLeft="20dp"
                         android:layout_marginTop="50dp"
                         android:text="@string/aa5"
-                        android:textAllCaps="true"
+                        android:textAllCaps="false"
                         android:textColor="#000000"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -325,7 +325,7 @@
                 android:layout_height="140dp"
                 android:layout_margin="5dp"
                 android:background="#d7df92"
-                android:clickable="true"
+                android:clickable="false"
                 android:onClick="foodmenu"
                 android:padding="10dp">
 
@@ -349,7 +349,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="20dp"
                         android:text="@string/name6prajakta"
-                        android:textAllCaps="true"
+                        android:textAllCaps="false"
                         android:textColor="#000000"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -361,7 +361,7 @@
                         android:layout_marginLeft="20dp"
                         android:layout_marginTop="50dp"
                         android:text="@string/aa6"
-                        android:textAllCaps="true"
+                        android:textAllCaps="false"
                         android:textColor="#000000"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -385,7 +385,7 @@
                 android:layout_height="140dp"
                 android:layout_margin="5dp"
                 android:background="#d7df92"
-                android:clickable="true"
+                android:clickable="false"
                 android:onClick="foodmenu"
                 android:padding="10dp">
 
@@ -409,7 +409,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="20dp"
                         android:text="@string/name7sonali"
-                        android:textAllCaps="true"
+                        android:textAllCaps="false"
                         android:textColor="#000000"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -421,7 +421,7 @@
                         android:layout_marginLeft="20dp"
                         android:layout_marginTop="50dp"
                         android:text="@string/aa7"
-                        android:textAllCaps="true"
+                        android:textAllCaps="false"
                         android:textColor="#000000"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -445,7 +445,7 @@
                 android:layout_height="140dp"
                 android:layout_margin="5dp"
                 android:background="#d7df92"
-                android:clickable="true"
+                android:clickable="false"
                 android:onClick="foodmenu"
                 android:padding="10dp">
 
@@ -469,7 +469,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="20dp"
                         android:text="@string/name8nilesh"
-                        android:textAllCaps="true"
+                        android:textAllCaps="false"
                         android:textColor="#000000"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -481,7 +481,7 @@
                         android:layout_marginLeft="20dp"
                         android:layout_marginTop="50dp"
                         android:text="@string/aa8"
-                        android:textAllCaps="true"
+                        android:textAllCaps="false"
                         android:textColor="#000000"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -505,7 +505,7 @@
                 android:layout_height="140dp"
                 android:layout_margin="5dp"
                 android:background="#d7df92"
-                android:clickable="true"
+                android:clickable="false"
                 android:onClick="foodmenu"
                 android:padding="10dp">
 
@@ -529,7 +529,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="20dp"
                         android:text="@string/name9shishor"
-                        android:textAllCaps="true"
+                        android:textAllCaps="false"
                         android:textColor="#000000"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -541,7 +541,7 @@
                         android:layout_marginLeft="20dp"
                         android:layout_marginTop="50dp"
                         android:text="@string/aa9"
-                        android:textAllCaps="true"
+                        android:textAllCaps="false"
                         android:textColor="#000000"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -565,7 +565,7 @@
                 android:layout_height="140dp"
                 android:layout_margin="5dp"
                 android:background="#d7df92"
-                android:clickable="true"
+                android:clickable="false"
                 android:onClick="foodmenu"
                 android:padding="10dp">
 
@@ -589,7 +589,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="20dp"
                         android:text="@string/name10ashwini"
-                        android:textAllCaps="true"
+                        android:textAllCaps="false"
                         android:textColor="#000000"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -601,7 +601,7 @@
                         android:layout_marginLeft="20dp"
                         android:layout_marginTop="50dp"
                         android:text="@string/aa10"
-                        android:textAllCaps="true"
+                        android:textAllCaps="false"
                         android:textColor="#000000"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -623,7 +623,7 @@
                 android:layout_height="140dp"
                 android:layout_margin="5dp"
                 android:background="#d7df92"
-                android:clickable="true"
+                android:clickable="false"
                 android:onClick="foodmenu"
                 android:padding="10dp">
 
@@ -647,7 +647,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="20dp"
                         android:text="@string/name11sandip"
-                        android:textAllCaps="true"
+                        android:textAllCaps="false"
                         android:textColor="#000000"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -659,7 +659,7 @@
                         android:layout_marginLeft="20dp"
                         android:layout_marginTop="50dp"
                         android:text="@string/aa11"
-                        android:textAllCaps="true"
+                        android:textAllCaps="false"
                         android:textColor="#000000"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -676,13 +676,13 @@
             </View>
 
 
-            <LinearLayout
+            <!--<LinearLayout
 
                 android:layout_width="match_parent"
                 android:layout_height="140dp"
                 android:layout_margin="5dp"
                 android:background="#d7df92"
-                android:clickable="true"
+                android:clickable="false"
                 android:onClick="foodmenu"
                 android:padding="10dp">
 
@@ -706,7 +706,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="20dp"
                         android:text="@string/name12sandipsarade"
-                        android:textAllCaps="true"
+                        android:textAllCaps="false"
                         android:textColor="#000000"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -718,7 +718,7 @@
                         android:layout_marginLeft="20dp"
                         android:layout_marginTop="50dp"
                         android:text="@string/aa12"
-                        android:textAllCaps="true"
+                        android:textAllCaps="false"
                         android:textColor="#000000"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -732,7 +732,7 @@
                 android:layout_height="1dp"
                 android:background="@color/setting_LineColor">
 
-            </View>
+            </View>-->
 
 
             <LinearLayout
@@ -741,7 +741,7 @@
                 android:layout_height="140dp"
                 android:layout_margin="5dp"
                 android:background="#d7df92"
-                android:clickable="true"
+                android:clickable="false"
                 android:onClick="foodmenu"
                 android:padding="10dp">
 
@@ -765,7 +765,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="20dp"
                         android:text="@string/name13swati"
-                        android:textAllCaps="true"
+                        android:textAllCaps="false"
                         android:textColor="#000000"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -777,7 +777,7 @@
                         android:layout_marginLeft="20dp"
                         android:layout_marginTop="50dp"
                         android:text="@string/aa13"
-                        android:textAllCaps="true"
+                        android:textAllCaps="false"
                         android:textColor="#000000"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -801,7 +801,7 @@
                 android:layout_height="140dp"
                 android:layout_margin="5dp"
                 android:background="#d7df92"
-                android:clickable="true"
+                android:clickable="false"
                 android:onClick="foodmenu"
                 android:padding="10dp">
 
@@ -825,7 +825,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="20dp"
                         android:text="@string/name14mahesh"
-                        android:textAllCaps="true"
+                        android:textAllCaps="false"
                         android:textColor="#000000"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -837,7 +837,7 @@
                         android:layout_marginLeft="20dp"
                         android:layout_marginTop="50dp"
                         android:text="@string/aa14"
-                        android:textAllCaps="true"
+                        android:textAllCaps="false"
                         android:textColor="#000000"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -860,7 +860,7 @@
                 android:layout_height="140dp"
                 android:layout_margin="5dp"
                 android:background="#d7df92"
-                android:clickable="true"
+                android:clickable="false"
                 android:onClick="foodmenu"
                 android:padding="10dp">
 
@@ -884,7 +884,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="20dp"
                         android:text="@string/name15shital"
-                        android:textAllCaps="true"
+                        android:textAllCaps="false"
                         android:textColor="#000000"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -896,7 +896,7 @@
                         android:layout_marginLeft="20dp"
                         android:layout_marginTop="50dp"
                         android:text="@string/aa15"
-                        android:textAllCaps="true"
+                        android:textAllCaps="false"
                         android:textColor="#000000"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -919,7 +919,7 @@
                 android:layout_height="140dp"
                 android:layout_margin="5dp"
                 android:background="#d7df92"
-                android:clickable="true"
+                android:clickable="false"
                 android:onClick="foodmenu"
                 android:padding="10dp">
 
@@ -943,7 +943,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="20dp"
                         android:text="@string/name16mahesh"
-                        android:textAllCaps="true"
+                        android:textAllCaps="false"
                         android:textColor="#000000"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -955,7 +955,7 @@
                         android:layout_marginLeft="20dp"
                         android:layout_marginTop="50dp"
                         android:text="@string/aa16"
-                        android:textAllCaps="true"
+                        android:textAllCaps="false"
                         android:textColor="#000000"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -979,7 +979,7 @@
                 android:layout_height="140dp"
                 android:layout_margin="5dp"
                 android:background="#d7df92"
-                android:clickable="true"
+                android:clickable="false"
                 android:onClick="foodmenu"
                 android:padding="10dp">
 
@@ -1003,7 +1003,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="20dp"
                         android:text="@string/name17madhuri"
-                        android:textAllCaps="true"
+                        android:textAllCaps="false"
                         android:textColor="#000000"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -1015,7 +1015,7 @@
                         android:layout_marginLeft="20dp"
                         android:layout_marginTop="50dp"
                         android:text="@string/aa17"
-                        android:textAllCaps="true"
+                        android:textAllCaps="false"
                         android:textColor="#000000"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -1038,7 +1038,7 @@
                 android:layout_height="140dp"
                 android:layout_margin="5dp"
                 android:background="#d7df92"
-                android:clickable="true"
+                android:clickable="false"
                 android:onClick="foodmenu"
                 android:padding="10dp">
 
@@ -1062,7 +1062,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="20dp"
                         android:text="@string/name18atul"
-                        android:textAllCaps="true"
+                        android:textAllCaps="false"
                         android:textColor="#000000"
                         android:textSize="22sp"
                         android:textStyle="bold" />
@@ -1074,7 +1074,7 @@
                         android:layout_marginLeft="20dp"
                         android:layout_marginTop="50dp"
                         android:text="@string/aa18"
-                        android:textAllCaps="true"
+                        android:textAllCaps="false"
                         android:textColor="#000000"
                         android:textSize="22sp"
                         android:textStyle="bold" />

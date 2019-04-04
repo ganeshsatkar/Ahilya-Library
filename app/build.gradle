@@ -6,8 +6,8 @@ android {
         applicationId "grdp.ganeshsatkar.ahilyalibrary"
         minSdkVersion 17
         targetSdkVersion 27
-        versionCode 13
-        versionName "1.0.3"
+        versionCode 14
+        versionName "1.0.4"
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
 
