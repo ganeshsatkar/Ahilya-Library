@@ -173,7 +173,7 @@
                 android:layout_height="200dp"
                 android:layout_marginTop="5dp"
                 android:layout_marginBottom="5dp"
-                android:src="@drawable/suvidha5"
+                android:src="@drawable/toilates"
                 tools:ignore="ContentDescription,ObsoleteLayoutParam" />
 
             <Button

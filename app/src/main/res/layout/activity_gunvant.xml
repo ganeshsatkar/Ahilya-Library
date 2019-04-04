@@ -394,7 +394,7 @@
                     android:layout_width="120dp"
                     android:layout_height="match_parent"
                     android:layout_gravity="left|center"
-                    android:src="@drawable/girlsdummy"
+                    android:src="@drawable/sonalimirge"
                     android:tint="#00000000" />
 
                 <RelativeLayout

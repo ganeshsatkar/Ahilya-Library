@@ -14,7 +14,7 @@ import android.widget.ImageView;
 import android.widget.Toast;
 
 public class Gallery extends AppCompatActivity {
-    private Integer[] images = {R.drawable.suvidha12, R.drawable.flif5,
+    private Integer[] images = {R.drawable.suvidha_hall1, R.drawable.suvidha_acroom,
             R.drawable.flif4, R.drawable.flif2, R.drawable.flif3, R.drawable.suvidha2, R.drawable.suvidha4,
             R.drawable.suvidha10, R.drawable.flif1,
             R.drawable.flif7, R.drawable.flif6, R.drawable.suvidha13, R.drawable.suvidha10, R.drawable.suvidha9,
