@@ -83,7 +83,7 @@
 
 
             <LinearLayout
-                android:id="@+id/lbl00"
+
                 android:layout_width="match_parent"
                 android:layout_height="140dp"
                 android:layout_margin="5dp"
@@ -94,8 +94,7 @@
                 android:focusable="false">
 
                 <ImageView
-                    android:id="@+id/img10"
-                    android:layout_width="120dp"
+                   android:layout_width="120dp"
                     android:layout_height="match_parent"
                     android:layout_gravity="left|center"
                     android:src="@drawable/ganeshkelkar"
@@ -108,7 +107,7 @@
                     android:gravity="left|center">
 
                     <TextView
-                        android:id="@+id/txt20"
+
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginStart="20dp"
@@ -133,6 +132,66 @@
                 </RelativeLayout>
             </LinearLayout>
 
+			
+			  <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/setting_LineColor" />
+
+
+            <LinearLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                android:layout_margin="5dp"
+                android:background="#d7df92"
+                android:clickable="false"
+                android:onClick="foodmenu"
+                android:padding="10dp"
+                android:focusable="false">
+
+                <ImageView
+
+                    android:layout_width="120dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="left|center"
+                    android:src="@drawable/ajinkya"
+                    android:tint="#00000000" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#d7df92"
+                    android:gravity="left|center">
+
+                    <TextView
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="20dp"
+                        android:text="@string/name20ajikya"
+                        android:textAllCaps="false"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="20dp"
+                        android:layout_marginTop="50dp"
+                        android:text="@string/aa20"
+                        android:textAllCaps="false"
+                        android:textColor="#000000"
+                        android:textSize="22sp"
+                        android:textStyle="bold" />
+
+                </RelativeLayout>
+            </LinearLayout>
+			
+			
+			
             <View
                 android:layout_width="match_parent"
                 android:layout_height="1dp"

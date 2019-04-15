@@ -173,7 +173,7 @@
         <string name="contact_name">अहिल्या शिक्षण मंडळ पुणे वाचनालय </string>
         <string name="contact_address">रामबाग कॉलनी, सदाशिव पेठ , पुणे. महाराष्ट्र ४११०३०</string>
         <string name="contact_mail">asmplibrary@gmail.com</string>
-        <string name="contact_website">www.ahilyalibrary.wordpress.com</string>
+        <string name="contact_website">www.ahilyalibrary.com</string>
         <string name="contact_stdphone">०२० - ३३४० ९८४६</string>
         <string name="contact_mobilephone">+९१ ८४८३०३५८२०</string>
 
@@ -231,6 +231,7 @@
 		
 		<string name="name18atul">अतुल खाडे   </string>
 		<string name="name19sujitsih"> सुजितसिंह  कोळेकर   </string>
+		<string name="name20ajikya"> अजिंक्य गोडगे  </string>
 		
 		
 		
@@ -269,6 +270,7 @@
     <string name="aa18">राज्यकर निरीक्षक</string>
     <string name="aa"> विक्रीकर निरीक्षक </string>
 	<string name="aa19"> विक्रीकर निरीक्षक </string>
+	<string name="aa20"> विक्रीकर निरीक्षक </string>
 
 </resources>
 

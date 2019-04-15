@@ -27,11 +27,11 @@ public class ViewPagerExampleActivity extends Activity {
 
     static class TouchImageAdapter extends PagerAdapter {
 
-        private static int[] images = { R.drawable.suvidha12, R.drawable.flif5,
-                R.drawable.flif4, R.drawable.flif2, R.drawable.flif3, R.drawable.suvidha2, R.drawable.suvidha4,
+        private static int[] images = { R.drawable.suvidha_hall1, R.drawable.suvidha_acroom,
+                R.drawable.flif44, R.drawable.flif2, R.drawable.flif3, R.drawable.suvidha_security,
                 R.drawable.suvidha10, R.drawable.flif1,
                 R.drawable.flif7, R.drawable.flif6, R.drawable.suvidha13, R.drawable.suvidha10, R.drawable.suvidha9,
-                R.drawable.suvidha4, R.drawable.suvidha8, R.drawable.suvidha5, R.drawable.suvidha7, R.drawable.suvidha6
+                R.drawable.toilates, R.drawable.suvidha8, R.drawable.suvidha13, R.drawable.suvidha7
 
         };
 
